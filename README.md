@@ -41,7 +41,7 @@ Make sure you have Node.js (v20+ recommended) and npm installed.
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/DulanjaliSenarathna/mern-food-delivery-app.git
+https://github.com/Vaishali-kale/mern-food-delivery-app
 cd mern-food-delivery-app
 ```
 
@@ -147,20 +147,7 @@ The API endpoints for the backend can be documented using tools like Postman or 
 ## 🤝 Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Make sure to follow the code style and include relevant tests.
 
-👨‍💻 Contributors
 
-[Dulanjali Senarathna](https://github.com/DulanjaliSenarathna)
- — Project Owner
-
-[prem2621](https://github.com/prem2621)
- — Bug fixes, secure env handling, image display improvement
-
-## 📫 Contact
-For any questions or suggestions, feel free to contact me.
-
-Happy coding!
-
-Feel free to customize this template according to your specific project details and requirements.
 
 
 
